@@ -29,13 +29,6 @@ def email_block_func(self):
                             }
                 }"""
 
-
-
-
-
-
-
-
     self.set_interface(name='Text', value=data)
 
 
